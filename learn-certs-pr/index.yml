@@ -1,0 +1,120 @@
+### YamlMime:CertificationHome
+
+title: Microsoft Certifications
+summary: Získávejte certifikace, které ukazují, že držíte krok s dnešními technickými pozicemi a požadavky. Zvolte pracovní pozici k nalezení certifikací
+
+roles:
+  - name: developer
+    summary: Vývojáøi navrhují, tvoøí, testují a udržují cloudová øešení.
+    url: /learn/certifications/roles/developer
+  - name: administrator
+    summary: Administrátor implementuje, monitoruje a udržuje øešení spoleènosti Microsoft.
+    url: /learn/certifications/roles/administrator
+  - name: solution-architect
+    summary: Solutions Architects mají odborné znalosti v oblasti výpoètù, sítí, úložištì a zabezpeèení.
+    url: /learn/certifications/roles/solutions-architect
+  - name: data-engineer
+    summary: Data Engineer navrhují a implementují øízení, monitorování, zabezpeèení a soukromí dat pomocí plného zásobníku datových služeb.
+    url: /learn/certifications/roles/data-engineer
+  - name: data-scientist
+    summary: Data Scientist užívají techniky strojového uèení ke školení, hodnocení a nasazení modelù, které vyøeší obchodní problémy.
+    url: /learn/certifications/roles/data-scientist
+  - name: ai-engineer
+    summary: Al Engineers využívají kognitivní služby, strojové uèení a získávání znalostí o architektuøe a implementaci øešení Microsoft AI.
+    url: /learn/certifications/roles/ai-engineer
+  - name: devops-engineer
+    summary: DevOps Engineers spojují lidi, procesy a technologie tak, aby neustále dodávali cenné produkty a služby, které splòují potøeby koncových uživatelù a byznys cíle.
+    url: /learn/certifications/roles/devops-engineer
+  - name: security-engineer
+    summary: Security Engineers implementují bezpeènostní kontroly a chrání pøed ohrožením, spravují identitu a pøístup a chrání data, aplikace a sítì.
+    url: /learn/certifications/roles/security-engineer
+  - name: functional-consultant
+    summary: Functional Consultant využívá Microsoft Dynamics 365 k pøedvídání a plánování potøeb zákazníkù.
+    url: /learn/certifications/roles/functional-consultant
+
+
+certificationsSection:
+  title: Získáni Microsoft Certifikace
+  summary: "Microsoft má certifikaèní cesty pro mnoho technických pracovních pozic. Každá z tìchto zmínìných certifikací spoèívá v absolvování zkoušek k získání certifikace."
+  tiers:
+    - title: Základní certifikace
+      summary: Doporuèený start. Ideální pro jednotlivce, kteøí teprve zaèínají v technologii nebo pøemýšlejí o zmìnì v kariéøe.
+      certifications:
+        - uid: certification.azure-fundamentals
+        - uid: certification.microsoft-365-fundamentals
+        - uid: certification.power-platform-fundamentals
+      browseLink:
+        text: Prohlížení základních certifikací
+        url: /learn/certifications/browse?levels=beginner&term=fundamentals 
+    - title: Na základì dané role certifikace
+      summary: Zvolit certifikaci na základì dané role a zaènìte se uèit hodnotným dovednostem na pozici v zamìstnání.
+      certifications:
+        - uid: certification.azure-developer
+        - uid: certification.power-apps-and-d365-developer-associate
+        - uid: certification.d365-functional-consultant-sales
+      browseLink:
+        text: Browse role-based certifikace 
+        url: /learn/certifications/browse?resource_type=certification
+    - title: Další certifikáty
+      summary: Prozkoumejte odbornost, Microsoft Certified Educator a technické certifikáty Microsoft Office.
+      certifications:
+        - uid: certification.azure-for-sap-workloads-specialty
+        - uid: certification.microsoft-certified-educator
+        - uid: certification.mos-word-expert-2019
+      browseLink:
+        text: Prozkoumejte další certifikáty
+        url: /learn/certifications/browse?resource_type=certification
+
+trainingSection:
+  title: Jak se pøipravit na certifikaci
+  summary: Spoleènost Microsoft rozumí, že každý má jiné výukové preference, takže vám poskytujeme možnosti certifikace a školení bìhem vaší cesty k certifikaci.
+  items:
+  - image:
+      alt: Žena pøi pohledu na Microsoft Surface
+      src: /learn/certifications/images/image-working-lady-laptop.jpg
+    title: Volné formy uèení pro pøípravu
+    summary: Díky programu Microsoft Learn mùže kdokoli ovládat základní koncepty rychlostí dle jejich harmonogramu. A už se jedná o jediný modul, který obsahuje studijní materiály o klíèovém úkolu, nebo do hloubky zkoumá téma prostøednictvím sbírky souvisejících modulù.
+    browseLinks:
+    - text: Procházejte všechny zpùsoby uèení
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+  - image:
+      alt: Muž se pøedstavuje ètyøem lidem sedícím kolem stolu
+      src: /learn/certifications/images/image-working-group.jpg
+    title: Pøipravte se na školení vedené instruktory
+    summary: Partneøi spoleènosti Microsoft Learning nabízejí širokou škálu øešení, která se pøizpùsobují vašim vzdìlávacím potøebám, a umožòují tak dosažení vzdìlávacích cílù. Microsoft Certified Trainers absolvovali precizní školení a splnili veškeré technické požadavky na certifikaci.
+    browseLinks:
+    - text: Prohlížení všech školení pod vedením instruktorù
+      url: /learn/certifications/courses/browse/
+
+resourcesSection:
+  title: Uèební prostøedky
+  items:
+    - title: Nalezení Microsoft Learning Partner
+      summary: Naše celosvìtová sí partnerù poskytuje flexibilní øešení založené na vlastním školení v technologiích spoleènosti Microsoft.
+      url: https://www.microsoft.com/en-us/learning/partners.aspx
+    - title: Podpora certifikací a zkoušek
+      summary: Získejte pomoc prostøednictvím podpory na fóru. Moderátor fóra odpoví bìhem jednoho pracovního dne, od pondìlí do pátku.
+      url: /learn/certifications/help
+    - title: Procházet všechny certifikace a zkoušky
+      summary: Prozkoumejte všechny certifikace k posunutí kariéry na další úroveò.
+      url: /learn/certifications/browse
+
+statisticsSection:
+  title: Proè získat certifikaci
+  summary: Certifikace vám dodají profesionální výhodu pøi prokázování dovedností založených na rolích v oboru.
+  video:
+    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    iframeTitle: Certifikace spoleènosti Microsoft
+    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    title: Výhody ohlednì certifikací spoleènosti Microsoft
+    summary: 23% certifikovaných technologù spoleènosti Microsoft po získání certifikace uvedlo, že dosáhlo na 20% zvýšení platu. Navíc jsou certifikovaní zamìstnanci èasto povìøeni dohlížet na své vrstevníky – jejich uvedení pro rychlé povýšení. 2017 Pearson VUE Value of Certification white paper.
+  items:
+    - title: 38%
+      summary: IT pozice budou do roku 2021 souviset s cloudem.
+      note: IDC / Microsoft, cloudové schopnosti a organizaèní vliv* Jak cloudové schopnosti zrychlují kariéru IT profesionála, kvìten 2017
+    - title: 35%
+      summary: IT odborníci tvrdí, že mají vìtší vliv bìhem cloudových implementací než jejich kolegové pøi nasazování jiných technologií.
+      note: IDC / Microsoft, cloudové schopnosti a organizaèní vliv* Jak cloudové schopnosti zrychlují kariéru IT profesionála, kvìten 2017
+    - title: 36.9%
+      summary: IT odborníci tvrdí, že jim certifikace pomohly plnit složité úkoly s vìtší jistotou.
+      note: Pearson VUE, Prùzkum hodnoty certifikace IT, leden 2017
