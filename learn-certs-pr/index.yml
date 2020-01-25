@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: Nalezení Microsoft Learning Partner
       summary: Naše celosvìtová sí partnerù poskytuje flexibilní øešení založené na vlastním školení v technologiích spoleènosti Microsoft.
-      url: https://www.microsoft.com/en-us/learning/partners.aspx
+      url: https://www.microsoft.com/learning/partners.aspx
     - title: Podpora certifikací a zkoušek
       summary: Získejte pomoc prostøednictvím podpory na fóru. Moderátor fóra odpoví bìhem jednoho pracovního dne, od pondìlí do pátku.
       url: /learn/certifications/help
@@ -105,7 +105,7 @@ statisticsSection:
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
     iframeTitle: Certifikace spoleènosti Microsoft
-    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Výhody ohlednì certifikací spoleènosti Microsoft
     summary: 23% certifikovaných technologù spoleènosti Microsoft po získání certifikace uvedlo, že dosáhlo na 20% zvýšení platu. Navíc jsou certifikovaní zamìstnanci èasto povìøeni dohlížet na své vrstevníky – jejich uvedení pro rychlé povýšení. 2017 Pearson VUE Value of Certification white paper.
   items:
